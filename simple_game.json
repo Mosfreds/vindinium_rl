@@ -1,0 +1,71 @@
+{
+    "hero": {
+        "mineCount": 0, 
+        "gold": 0, 
+        "spawnPos": {"y": 3, "x": 3}, 
+        "life": 100, 
+        "pos": {"y": 3, "x": 3}, 
+        "elo": 1269, 
+        "crashed": "False", 
+        "id": 1, 
+        "name": "Raenmaril", 
+        "userId": "f87i3y5m"
+    }, 
+    "game": {
+        "turn": 0, 
+        "maxTurns": 120, 
+        "board": {
+            "tiles": "################################        ############$-            $-########  @1        @4  ######    []  $-$-  []    ####    ##  ####  ##    ####    ##  ####  ##    ####    []  $-$-  []    ######  @2        @3  ########$-            $-############        ################################", 
+            "size": 12
+        }, 
+        "heroes": [
+            {
+                "mineCount": 0, 
+                "gold": 0, 
+                "spawnPos": {"y": 3, "x": 3}, 
+                "life": 100, 
+                "pos": {"y": 3, "x": 3}, 
+                "elo": 1269, 
+                "crashed": "False", 
+                "id": 1, 
+                "name": "Raenmaril", 
+                "userId": "f87i3y5m"
+            }, 
+            {
+                "mineCount": 0, 
+                "crashed": "False", 
+                "spawnPos": {"y": 3, "x": 8}, 
+                "life": 100, 
+                "pos": {"y": 3, "x": 8}, 
+                "gold": 0, 
+                "id": 2, 
+                "name": "random"
+            }, 
+            {
+                "mineCount": 0, 
+                "crashed": "False", 
+                "spawnPos": {"y": 8, "x": 8}, 
+                "life": 100, 
+                "pos": {"y": 8, "x": 8}, 
+                "gold": 0, 
+                "id": 3, 
+                "name": "random"
+            }, 
+            {
+                "mineCount": 0, 
+                "crashed": "False", 
+                "spawnPos": {"y": 8, "x": 3}, 
+                "life": 100, 
+                "pos": {"y": 8, "x": 3}, 
+                "gold": 0, 
+                "id": 4, 
+                "name": "random"
+            }
+        ], 
+        "finished": "False", 
+        "id": "dwgkkzg8"
+    }, 
+    "viewUrl": "http://vindinium.org/dwgkkzg8", 
+    "token": "rib0", 
+    "playUrl": "http://vindinium.org/api/dwgkkzg8/rib0/play"
+}
